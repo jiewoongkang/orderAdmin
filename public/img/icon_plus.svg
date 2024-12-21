@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="버튼_copy_3" data-name="버튼 copy 3" transform="translate(-732 -315)">
+    <g id="Rectangle_1_copy_14" data-name="Rectangle 1 copy 14" transform="translate(732 315)" fill="#fff" stroke="#898e97" stroke-linejoin="round" stroke-width="1">
+      <circle cx="24" cy="24" r="24" stroke="none"/>
+      <circle cx="24" cy="24" r="23.5" fill="none"/>
+    </g>
+    <path id="Rectangle_10_copy" data-name="Rectangle 10 copy" d="M754,347v-6h-6a2,2,0,0,1,0-4h6v-6a2,2,0,1,1,4,0v6h6a2,2,0,0,1,0,4h-6v6a2,2,0,1,1-4,0Z" fill="#898e97"/>
+  </g>
+</svg>
